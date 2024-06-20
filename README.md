@@ -6,7 +6,7 @@ This is a personal project created with the goal of testing certain of my skills
 
 ### Links
 
-Live Site: [WiP]
+Live Site: https://sergiobrandaof.github.io/qr-code-page/
 
 ## My Process
 
